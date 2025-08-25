@@ -16,12 +16,12 @@ O objetivo é implementar diferentes funções de hash, analisar seu espalhament
 
 ## ⚙️ Estrutura do Repositório
 
-hash-lab/
-├── src/ # Código fonte em Java
-│ ├── HashFunctions.java
-│ ├── TabelaHash.java
-│ └── Testes.java
-├── resultados/ # Arquivos CSV com métricas
-├── r/ # Scripts em R para análise e gráficos
-│ └── analise.R
-└── README.md # Este arquivo
+- hash-lab/
+- ├── src/ # Código fonte em Java
+- │ ├── HashFunctions.java
+- │ ├── TabelaHash.java
+- │ └── Testes.java
+- ├── resultados/ # Arquivos CSV com métricas
+- ├── r/ # Scripts em R para análise e gráficos
+- │ └── analise.R
+- └── README.md # Este arquivo
